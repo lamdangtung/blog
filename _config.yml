@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: lamdangtung's stack
+subtitle: 'Học, học nữa, học mãi.'
+description: 'Just normal guy.'
 keywords:
-author: John Doe
+author: Đặng Tùng Lâm
 language: en
 timezone: ''
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
